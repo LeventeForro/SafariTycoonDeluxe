@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 921892dfef0596649b16db62b581b62c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zebraPrefab: {fileID: 8897617973800328964, guid: d6d77fb5f285b524589b84ad423133c8, type: 3}
+  - giraffePrefab: {fileID: 8897617973800328964, guid: ffd84fac44640474f98033dddae4dfe4, type: 3}
+  - ostrichPrefab: {fileID: 8897617973800328964, guid: 02ac2cf3f4f2b4144a92c7b96e2a0843, type: 3}
+  - gazellePrefab: {fileID: 8897617973800328964, guid: cd9f7d8ebf0cf884a92a8edac7b2ba1b, type: 3}
+  - crocoPrefab: {fileID: 3154090155088024160, guid: a9d392208bd7a9643aaf92ca24a4416b, type: 3}
+  - lionPrefab: {fileID: 7601160079188054026, guid: 202cef43daf88ae43a136b674b374b80, type: 3}
+  - leopardPrefab: {fileID: 5784058702441867343, guid: 87c4426105588da48b71d2747943a243, type: 3}
+  - bushPrefab: {fileID: 3550268531299076094, guid: 4537942e796664049afa03086a488f3b, type: 3}
+  - grassPrefab: {fileID: 4320615269906151923, guid: 6a53d32be2932074b9e72883abe2e2b7, type: 3}
+  - majomkenyerfaPrefab: {fileID: 8083642786684919914, guid: 7ba73bdaa8a1991429de3e128ae99255, type: 3}
+  - akaciafaPrefab: {fileID: 1480026040836219376, guid: 7355c399dcf0b8743a3e3f871594524c, type: 3}
+  - saveManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

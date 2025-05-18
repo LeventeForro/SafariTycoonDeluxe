@@ -1,0 +1,25 @@
+image: unityci/editor:2022.3.11f1-linux-il2cpp-2.0
+
+variables:
+  UNITY_LICENSE_FILE: ./unity_license.ulf
+
+before_script:
+  - echo "$UNITY_LICENSE" > $UNITY_LICENSE_FILE
+  - echo "Unity licenc aktiválása"
+  - unity-editor -batchmode -manualLicenseFile $UNITY_LICENSE_FILE -quit || true
+
+stages:
+  - test
+
+test_playmode:
+  stage: test
+  script:
+    - echo "Playmode tesztek futtatása..."
+    - mkdir -p TestResults
+    - unity-editor -batchmode -projectPath . -runTests -testPlatform playmode -testResults TestResults/playmode-results.xml -logFile TestResults/test-results.log -quit
+  artifacts:
+    when: always
+    paths:
+      - TestResults/
+    reports:
+      junit: TestResults/playmode-results.xml

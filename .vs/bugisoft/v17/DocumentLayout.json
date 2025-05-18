@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\MiniMapIconController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MiniMapIconController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\Entities\\PlantEaterAnimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Entities\\PlantEaterAnimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\GridController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GridController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\Ground\\WaterWaveEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ground\\WaterWaveEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniMapIconController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\MiniMapIconController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniMapIconController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\MiniMapIconController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniMapIconController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:07:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\GridController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\GridController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:22:49.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WaterWaveEffect.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\Ground\\WaterWaveEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ground\\WaterWaveEffect.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\Ground\\WaterWaveEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ground\\WaterWaveEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:22:35.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlantEaterAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\Entities\\PlantEaterAnimal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\PlantEaterAnimal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Bugisoft\\bugisoft\\Assets\\Scripts\\Entities\\PlantEaterAnimal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\PlantEaterAnimal.cs",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:18:18.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

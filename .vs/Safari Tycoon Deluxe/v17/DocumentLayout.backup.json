@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\minimapiconcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\minimapiconcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|c:\\users\\gerg\u0151\\documents\\unity projects\\safari tycoon deluxe\\assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\ui\\shwitchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\ui\\shwitchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\persistence\\loadgameflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\persistence\\loadgameflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\persistence\\gamepersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\persistence\\gamepersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\utility\\animalgrouptriggerdetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\utility\\animalgrouptriggerdetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\utility\\pathfindertriggerdetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\utility\\pathfindertriggerdetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\utility\\pathfindertriggerdetectionpredator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\utility\\pathfindertriggerdetectionpredator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\persistence\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\persistence\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\persistence\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\persistence\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\menus and settings\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\menus and settings\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\ground\\waterwaveeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\ground\\waterwaveeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\menus and settings\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\menus and settings\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\ground\\roadtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\ground\\roadtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\entities\\predator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\entities\\predator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\entities\\planteateranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\entities\\planteateranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\entities\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\entities\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\entities\\jeep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\entities\\jeep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\entities\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\entities\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\assets\\scripts\\entities\\lake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F1234A-1D2D-01A4-4218-660496D12455}|GameAssembly.csproj|solutionrelative:assets\\scripts\\entities\\lake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 184,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIController.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIController.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAAD8BAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:06:28.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\GridController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridController.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\GridController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridController.cs",
+              "ViewState": "AgIAAJECAAAAAAAAAAAowKUCAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:10:07.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiniMapIconController.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\MiniMapIconController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniMapIconController.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\MiniMapIconController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniMapIconController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:10:07.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAowA4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:10:07.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GamePersistence.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Persistence\\GamePersistence.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Persistence\\GamePersistence.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Persistence\\GamePersistence.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Persistence\\GamePersistence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:00:58.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoadGameFlag.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Persistence\\LoadGameFlag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Persistence\\LoadGameFlag.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Persistence\\LoadGameFlag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Persistence\\LoadGameFlag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:01:45.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShwitchHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\UI\\ShwitchHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ShwitchHandler.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\UI\\ShwitchHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ShwitchHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:06:28.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimalGroupTriggerDetection.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Utility\\AnimalGroupTriggerDetection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utility\\AnimalGroupTriggerDetection.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Utility\\AnimalGroupTriggerDetection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utility\\AnimalGroupTriggerDetection.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:05:46.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PathFinderTriggerDetection.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Utility\\PathFinderTriggerDetection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utility\\PathFinderTriggerDetection.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Utility\\PathFinderTriggerDetection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utility\\PathFinderTriggerDetection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:05:47.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PathFinderTriggerDetectionPredator.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Utility\\PathFinderTriggerDetectionPredator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utility\\PathFinderTriggerDetectionPredator.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Utility\\PathFinderTriggerDetectionPredator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utility\\PathFinderTriggerDetectionPredator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:05:47.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Base.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Base.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Base.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Base.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:24:06.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Persistence\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Persistence\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Persistence\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Persistence\\SaveManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:01:46.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Persistence\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Persistence\\SaveData.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Persistence\\SaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Persistence\\SaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:01:46.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Menus and Settings\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus and Settings\\SettingsManager.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Menus and Settings\\SettingsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus and Settings\\SettingsManager.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAowB8BAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:10:27.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Menus and Settings\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus and Settings\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Menus and Settings\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus and Settings\\MenuManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:10:27.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WaterWaveEffect.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Ground\\WaterWaveEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ground\\WaterWaveEffect.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Ground\\WaterWaveEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ground\\WaterWaveEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:08:47.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoadTile.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Ground\\RoadTile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ground\\RoadTile.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Ground\\RoadTile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ground\\RoadTile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:04:36.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Predator.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\Predator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\Predator.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\Predator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\Predator.cs",
+              "ViewState": "AgIAAHQCAAAAAAAAAAAowIYCAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:56:31.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlantEaterAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\PlantEaterAnimal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\PlantEaterAnimal.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\PlantEaterAnimal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\PlantEaterAnimal.cs",
+              "ViewState": "AgIAAJ4CAAAAAAAAAAAowKkCAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:42:41.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\Plant.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\Plant.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\Plant.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\Plant.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:40:22.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Jeep.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\Jeep.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\Jeep.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\Jeep.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\Jeep.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAAABcBAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:34:37.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tourist.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\Tourist.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\Tourist.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\Tourist.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\Tourist.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:33:48.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Lake.cs",
+              "DocumentMoniker": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\Lake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\Lake.cs",
+              "ToolTip": "C:\\Users\\Gerg\u0151\\Documents\\Unity Projects\\Safari Tycoon Deluxe\\Assets\\Scripts\\Entities\\Lake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\Lake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:31:21.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

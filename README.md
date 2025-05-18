@@ -1,8 +1,5 @@
 SAFARI TYCOON DELUXE
 
-Good luck! And have fun!
-Viel Glück and macht gut Spaß!
+Ez a Unity játék a BSc Programtervező Informatikus tanulmányaim során, a Szoftvertechnológia tantárgy keretében készült, két társammal közösen.
 
-CI
-
-Made by Bugisoft
+This Unity game was developed collaboratively with two teammates as part of my Bachelor's degree studies in Computer Science, specifically for the Software Technology course.
